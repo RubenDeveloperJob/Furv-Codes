@@ -1,26 +1,28 @@
-# Furv-Codes
-Small portable python app without database designed to generate inventory codes
-Generador de Código
+<h1 align="center">Generador de Código</h1>
 
-Descripción corta de la aplicación y su funcionalidad.
-Características principales
+<p align="center">
+  <img src="ruta/a/la/imagen.png" alt="Generador de Código" width="500">
+</p>
 
-    Permite generar códigos personalizados con información específica.
-    Interfaz gráfica fácil de usar.
-    Compatible con sistemas operativos Windows y Linux.
+<p align="center">Descripción corta de la aplicación y su funcionalidad.</p>
 
-Requisitos previos
+## :star: Características principales
 
-    Python 3.x
-    Bibliotecas adicionales (PIL, tkinter)
+- Permite generar códigos personalizados con información específica.
+- Interfaz gráfica fácil de usar.
+- Compatible con sistemas operativos Windows y Linux.
 
-Instalación
+## :rocket: Requisitos previos
 
-    Clona el repositorio:
+- Python 3.x
+- Bibliotecas adicionales (PIL, tkinter)
 
-bash
+## :inbox_tray: Instalación
 
-git clone [https://github.com/tu_usuario/tu_repositorio.git](https://github.com/RubenDeveloperJob/Furv-Codes)
+1. Clona el repositorio:
+
+```bash
+git clone https://github.com/tu_usuario/tu_repositorio.git
 
     Instala las dependencias:
 
@@ -28,7 +30,7 @@ bash
 
 pip install -r requirements.txt
 
-Uso
+:computer: Uso
 
     Navega hasta el directorio del proyecto:
 
@@ -44,9 +46,9 @@ python main.py
 
     Completa los campos requeridos y haz clic en "Generar Código".
 
-Contribuciones
+:handshake: Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si encuentras algún error o tienes alguna sugerencia de mejora, por favor crea una issue o envía un pull request.
-Licencia
+:page_facing_up: Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
