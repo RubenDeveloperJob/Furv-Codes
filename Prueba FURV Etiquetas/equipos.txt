@@ -1,0 +1,6 @@
+Portatil,NB
+Sobremesa,SM
+Pantalla,SC
+Periferico oficina,PO
+Adaptador,AD
+Cable,CB
