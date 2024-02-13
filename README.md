@@ -20,7 +20,7 @@ Instalación
 
 bash
 
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone [https://github.com/tu_usuario/tu_repositorio.git](https://github.com/RubenDeveloperJob/Furv-Codes)
 
     Instala las dependencias:
 
